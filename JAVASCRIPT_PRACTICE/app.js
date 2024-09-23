@@ -64,9 +64,66 @@
 
 
 //
-const arr=[1,2,3,4,5];
-const length=arr.length;
-for(let i=0;i<arr.length;i++){
-    console.log("array",arr[i]);
-}
+// const arr=[1,2,3,4,5];
+// const length=arr.length;
+// for(let i=0;i<arr.length;i++){
+//     console.log("array",arr[i]);
+// }
 
+
+
+// for(let i=1;i<=100;i++){
+//     document.write(" ",i)
+//     console.log(i)
+// }
+
+// letter count
+// const sample="souvickk";
+// const output={};
+
+// for(let count of sample){
+//     if(output[count]){
+//        output[count]++;
+//     }
+//     else{
+//         output[count]=1
+//     }
+// }
+// console.log(output)
+
+// console.log(2*"4")
+// console.log(1+2+'3')
+// console.log(typeof null);  //undefine javascrip vhul kore object dekhe
+
+
+// factorial
+// var number=prompt("Enter the number")
+// console.log(number)
+// var fact=1;
+// if(number==0){
+//     console.log(`the factorial of ${number} is 0`)
+// }
+// else if(number<0){
+//    console.log(`the negative number factorial is not possible`)
+// }
+// else{
+// //    for(var i=1;i<=number;i++){
+// //     fact=fact*i;
+// //    }
+// var i=1;
+// while(i<number){
+//     i++;
+//     fact=fact*i;
+    
+// }
+//    console.log(`the factorial of ${number} is: ${fact}`)
+// }
+
+
+// const users=[
+//     {name:"souvick", age:20},
+//     {name:'jash',age:30}
+// ];
+// // console.log(users);
+// console.table(users);
+// console.dir(users);
